@@ -5,5 +5,5 @@ type CardProps = {
 }
 
 export const Card = ({text}: CardProps) => {
-    return <CardContainer>text</CardContainer>
+    return <CardContainer>{text}</CardContainer>
 }

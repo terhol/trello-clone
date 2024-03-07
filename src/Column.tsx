@@ -11,7 +11,7 @@ type ColumnProps = {
         <ColumnTitle>{text}</ColumnTitle>
         <Card text="Generate app scaffold" />
         <Card text="Learn TypeScript" />
-        <Card text=">Begin to use static typing" />
+        <Card text="Begin to use static typing" />
         </ColumnContainer>
     )
 }
